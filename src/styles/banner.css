@@ -1,0 +1,54 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #102453;
+    padding: 0 100px 0 100px;
+}
+
+.banner .left {
+    display: flex;
+    justify-content: space-between;
+    gap: 75px;
+    align-items: center;
+    padding: 10px;
+}
+
+.banner .left .number {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}
+
+.banner .left .email {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}
+
+.banner .right {
+    display: flex;
+    justify-content: space-between;
+    gap: 27px;
+    align-items: center;
+    padding: 10px;
+}
+
+.banner a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.banner p {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+}

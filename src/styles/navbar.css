@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    background-color: #000;
+}
+
+.navbar_logo{
+
+}
+
+.navbar_logo img{
+    width: 200px;
+    height: 109.859px;
+    flex-shrink: 0;
+}
+
+.navbar_menu {
+
+}
